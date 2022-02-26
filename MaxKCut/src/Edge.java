@@ -1,5 +1,3 @@
-package com.MaxCut;
-
 public class Edge {
     int source, destination, weight;
 

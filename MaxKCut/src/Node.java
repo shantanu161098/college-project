@@ -1,5 +1,3 @@
-package com.MaxCut;
-
 import java.util.ArrayList;
 import java.util.List;
 
